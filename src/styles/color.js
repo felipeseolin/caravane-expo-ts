@@ -5,4 +5,5 @@ export default color = {
     blue: '#2ab7ca',
     yellow: '#fed766',
     gray: '#e6e6ea',
+    white: '#fcfcfc'
 };
